@@ -1,10 +1,8 @@
-/* Reset some default styles */
 body, h1, h2, p {
     margin: 0;
     padding: 0;
 }
 
-/* Style the header section */
 header {
     background-color: #333;
     color: #fff;
@@ -12,12 +10,10 @@ header {
     padding: 20px 0;
 }
 
-/* Style the contact, profile, and about sections */
 section {
     padding: 20px;
 }
 
-/* Style the skills section */
 .skill {
     margin-bottom: 10px;
 }
@@ -30,10 +26,9 @@ section {
 }
 
 .progress {
-    background-color: #007bff; /* Change this color to your preference */
+    background-color: #007bff;
 }
 
-/* Style the image section */
 img {
     display: block;
     margin: 0 auto;
