@@ -22,23 +22,15 @@ section {
     margin-bottom: 10px;
 }
 
-.bar {
+.progress-bar {
     background-color: #f0f0f0;
     height: 20px;
     border-radius: 10px;
     overflow: hidden;
 }
 
-.html-bar {
-    background-color: #f16529;
-}
-
-.css-bar {
-    background-color: #2965f1;
-}
-
-.js-bar {
-    background-color: #f1d629;
+.progress {
+    background-color: #007bff; /* Change this color to your preference */
 }
 
 /* Style the image section */
